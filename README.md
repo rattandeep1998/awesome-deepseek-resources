@@ -22,3 +22,4 @@ This repository is a collection of awesome projects and resources related to [De
 
 ### Blogs
 - [Jay Alammar](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1) - Illustrated guide to DeepSeek-R1
+- [Vinija's Notes](https://vinija.ai/models/DeepSeek/) - DeepSeek R1 Primer
